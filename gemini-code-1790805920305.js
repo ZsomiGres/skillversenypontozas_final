@@ -19,7 +19,7 @@ const stationsData = [
             { name: "[Endotracheális intubáció] Fej hátraszegése, fogtörés elkerülése, sikeres manőver", maxPoints: 3 },
             { name: "[Endotracheális intubáció] Tubus pozíció 5 pontos ellenőrzése és rögzítése", maxPoints: 3 },
             { name: "[In-line stabilizáció] Folyamatos nyak stabilizálás a beavatkozás alatt", maxPoints: 2 },
-            { name: "[Eshmark műfogás] Fej hátraszegése, ujjpozíciók és áll kiemelése", maxPoints: 4 }
+            { name: "[Esmarch műfogás] Fej hátraszegése, ujjpozíciók és áll kiemelése", maxPoints: 4 }
         ],
         knowledge: null
     },
